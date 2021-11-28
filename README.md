@@ -1,30 +1,19 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
-
-Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
-
-Mở file config.js sửa nội dung theo mẫu
-```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
+    introTitle: 'Quyênnn à!',
+    introDesc: `Ngày qua, tháng lại, năm này qua năm khác, mùa đông này và mùa hè khác... vạn vật đều sẽ thay đổi, trừ tình yêu anh dành cho em.
+    Được ở bên em mùa đông này, thế giới của anh như bùng cháy từ bên trong.`,
+    btnIntro: 'OwO',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnYes: 'Iu nhắm lunn <33',
+    btnNo: 'Không, Anh bạn à :3',
+    question:'Thế giới bao la rộng lớn, sao em lại sa vào lưới tình của anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Bởi anh chỉ là người dành riêng cho em UwU <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Còn chần chừ gì nữa mà khum lại gần bên anh khoá đôi môi nhau nàooo.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100039227537686'
 }
 ```
 
