@@ -1,19 +1,21 @@
 const CONFIG = {
-    introTitle: 'Quyênnn à!',
-    introDesc: `Ngày qua, tháng lại, năm này qua năm khác, mùa đông này và mùa hè khác... vạn vật đều sẽ thay đổi, trừ tình yêu anh dành cho em.
-    Được ở bên em mùa đông này, thế giới của anh như bùng cháy từ bên trong.`,
-    btnIntro: 'OwO',
+    introTitle: 'Babe à!',
+    introDesc: `Trái Đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương.`,
+    btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Iu nhắm lunn <33',
-    btnNo: 'Không, Anh bạn à :3',
-    question:'Thế giới bao la rộng lớn, sao em lại sa vào lưới tình của anh <3',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Thế giới có hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Bởi anh chỉ là người dành riêng cho em UwU <33333333',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Còn chần chừ gì nữa mà khum lại gần bên anh khoá đôi môi nhau nàooo.',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 
+    messLink:  'http://fb.com' 
 }
 ```
 
